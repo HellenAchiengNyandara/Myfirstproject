@@ -1,0 +1,12 @@
+*body{
+    background-color: red;
+}
+.triangle-container{
+    width: 200px;
+    height: 200px;
+    margin: 200px;
+    transition: all5sease-in-out;
+}
+.triangle-container:hover{
+    transform: rotate(360deg);
+}
